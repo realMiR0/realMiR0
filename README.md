@@ -29,7 +29,7 @@ I'm currently learning **Cybersecurity** and **Malware Analysis**, while buildin
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| [Restarter_Loop](https://github.com/realMiR0/Restart_Loop) | continuous Windows restart program in Python | Python, Batchfile |
+| [Restarter_Loop](https://github.com/realMiR0/Restart_Loop) | continuous Windows restart program in Python. | Python, Batchfile |
 
 ---
 
