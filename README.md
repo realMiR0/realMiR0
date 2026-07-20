@@ -29,10 +29,7 @@ I'm currently learning **Cybersecurity** and **Malware Analysis**, while buildin
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| [WebSocket Server](https://github.com/realMiR0/WebSocket-Server) | Secure WebSocket server written in Python. | Python, WebSockets |
-| [Automation Tools](https://github.com/realMiR0/Automation) | Collection of automation scripts for Windows & Linux. | Python |
-| [Network Scanner](https://github.com/realMiR0/Network-Scanner) | Simple network scanning utilities. | Python |
-| [OpenCV Projects](https://github.com/realMiR0/OpenCV) | Computer vision experiments and utilities. | Python, OpenCV |
+| [Restarter_Loop](https://github.com/realMiR0/Restart_Loop) | continuous Windows restart program in Python | Python, Batchfile |
 
 ---
 
