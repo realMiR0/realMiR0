@@ -11,12 +11,8 @@ Python Developer • Learning Cybersecurity
     <img src="https://img.shields.io/badge/GitHub-realMiR0-181717?style=for-the-badge&logo=github">
   </a>
 
-  <a href="https://t.me/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/Telegram-Message-26A5E4?style=for-the-badge&logo=telegram">
-  </a>
-
-  <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge&logo=protonmail">
+  <a href="https://x.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x">
   </a>
 </p>
 
@@ -41,8 +37,8 @@ I'm currently learning **Cybersecurity** while expanding my knowledge of network
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=realMiR0&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=realMiR0&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=realMiR0&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=realMiR0&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -51,8 +47,7 @@ I'm currently learning **Cybersecurity** while expanding my knowledge of network
 
 <p align="center">
   <a href="https://github.com/realMiR0">GitHub</a> •
-  <a href="https://t.me/YOUR_USERNAME">Telegram</a> •
-  <a href="mailto:YOUR_EMAIL">Email</a>
+  <a href="https://x.com/YOUR_USERNAME">X</a>
 </p>
 
 ---
