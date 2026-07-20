@@ -57,7 +57,7 @@ I'm currently learning **Cybersecurity** and **Malware Analysis**, while buildin
 
 <p align="center">
   <a href="https://github.com/realMiR0">GitHub</a> •
-  <a href="https://x.com/YOUR_USERNAME">X</a>
+  <a href="https://x.com/realMiR0">X</a>
 </p>
 
 ---
