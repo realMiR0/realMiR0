@@ -20,9 +20,19 @@ Python Developer • Learning Cybersecurity
 
 ## 👋 About Me
 
-I'm **Miro**, a Python developer who enjoys building practical software and automation tools.
+I'm **Miro**, a Python developer with a strong interest in cybersecurity.
+I'm currently learning **Cybersecurity** and **Malware Analysis**, while building tools and expanding my knowledge of system internals.
 
-I'm currently learning **Cybersecurity** while expanding my knowledge of networking and system internals.
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| [WebSocket Server](https://github.com/realMiR0/WebSocket-Server) | Secure WebSocket server written in Python. | Python, WebSockets |
+| [Automation Tools](https://github.com/realMiR0/Automation) | Collection of automation scripts for Windows & Linux. | Python |
+| [Network Scanner](https://github.com/realMiR0/Network-Scanner) | Simple network scanning utilities. | Python |
+| [OpenCV Projects](https://github.com/realMiR0/OpenCV) | Computer vision experiments and utilities. | Python, OpenCV |
 
 ---
 
