@@ -44,8 +44,8 @@ I'm currently learning **Cybersecurity** and **Malware Analysis**, while buildin
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=realMiR0&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=realMiR0&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img align="top" height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=realMiR0&theme=holi&animation=stagger" />
+  <img align="top" height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=realMiR0&theme=holi&animation=stagger&name=MiR0" />
 </p>
 
 ---
