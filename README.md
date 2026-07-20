@@ -36,7 +36,7 @@ I'm currently learning **Cybersecurity** and **Malware Analysis**, while buildin
 ## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,linux,git,github,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=python,windows,linux,git,github,vscode,postman" />
 </p>
 
 ---
