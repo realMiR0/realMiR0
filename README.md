@@ -27,9 +27,22 @@ I'm currently learning **Cybersecurity** and **Malware Analysis**, while buildin
 
 ## 🚀 Featured Projects
 
-| Project | Description | Tech |
-|---------|-------------|------|
-| [Restarter_Virus](https://github.com/realMiR0/Restart_Loop) | continuous Windows restart program in Python. | Python, Batchfile |
+<div align="center">
+
+<table>
+  <tr>
+    <th>Project</th>
+    <th>Description</th>
+    <th>Tech</th>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/realMiR0/Restart_Loop">Restarter_Virus</a></td>
+    <td>Continuous Windows restart program in Python.</td>
+    <td>Python, Batchfile</td>
+  </tr>
+</table>
+
+</div>
 
 ---
 
